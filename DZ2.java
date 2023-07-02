@@ -6,7 +6,7 @@
 
 // 2) Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 
-public class DZ2.java {
+public class DZ2 {
     public static void main(String[] args) throws Exception {
       String [] list = lib.ReadLineFromFile("dataForSelect.txt"); 
       System.out.println(list[0]); 
